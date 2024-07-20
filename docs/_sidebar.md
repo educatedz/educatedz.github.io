@@ -3,13 +3,14 @@
 * [首页](README)
 * [操作指南](guide)
 
-* 前端技术
-    * [Javascript](01/javascript/)
-    * [echarts](01/echarts/)
+* Todo
+    * [搭建教程](01前置学习/搭建教程/)
 
-* 服务器端技术
-    * [Javascript](01/javascript)
-    * [echarts](01/echarts/Readme)
-
+* 科研相关
+    * [基础知识](02科研/基础知识/)
+    * [可细作的论文](02科研/可以细作的论文/)
+* 工作总结
+    * [工作总结](03工作总结/工作总结.md)
+    * [沟通总结](03工作总结/沟通总结.md)
 
 * [测试nojekyll](_testignore)

@@ -1,5 +1,5 @@
 * [操作指南](guide)
 
-* 前端技术
-    * [Javascript](01/javascript/)
+* 01
+    * [基础知识](01/echarts/基础知识/)
     * [echarts](01/echarts/)

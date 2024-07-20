@@ -1,7 +1,8 @@
-Communication
+[链接](https://mp.weixin.qq.com/s/FpKKBzv547iLpNMDFBy6IA)
 
-https://mp.weixin.qq.com/s/FpKKBzv547iLpNMDFBy6IA
+[Download PDF](s41591-023-02790-x.pdf)
 
+[Download PDF](s41591-023-02790-x.pdf ':include :type=code')
 #### 想法
 
 我的想法：
@@ -36,3 +37,20 @@ scale through mutual supervision and iterative optimization.
 最后，文章讨论了MUSE将原子结构尺度和分子网络尺度统一到一个多尺度框架中的能力，以及通过迭代优化和相互监督过程部分克服多尺度学习的贪婪特性，显著提高多尺度表示学习的效果。作者指出，尽管MUSE在基准测试中展示了最先进的性能，但仍有潜力通过结合知识图谱和可解释的AI技术来增强其处理嘈杂和不完整多尺度下游任务的能力。此外，MUSE的多尺度框架还展示了扩展到计算药物发现其他尺度的潜力，例如在蛋白质表示学习中应用到原子和氨基酸尺度，加深我们对蛋白质多重结构尺度的理解。作者希望MUSE的广泛适用性和可扩展性能够为有效治疗药物的发现做出贡献。
 
 复制再试一次分享
+
+
+
+<!-- ## pdf
+
+ <embed id="pdfPlayer" src="s41591-023-02790-x.pdf" type="application/pdf" width="100%" height="600" >
+
+<embed src="s41591-023-02790-x.pdf" type="application/pdf" width="100%" height="600px" />
+
+<embed src="s41591-023-02790-x.pdf" type="application/pdf" width="100%" height="600px" />
+
+### Here are some of your previous markdown contents
+blah blah blah
+
+```pdf
+ {% pdf s41591-023-02790-x.pdf %}
+``` -->
